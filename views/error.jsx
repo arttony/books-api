@@ -3,8 +3,7 @@ const React = require("react");
 function error() {
   return (
     <main>
-      <h1>PAGE NOT FOUND</h1>
-      <p>Sorry :(</p>
+      <h1>404 PAGE NOT FOUND</h1>
     </main>
   );
 }
